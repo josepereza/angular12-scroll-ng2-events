@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+.rojo p{
+  color:rgb(228, 33, 33)
+}
+.box-1{
+  font-size: 2em;
+  transition-delay: 200ms;
+  transition-duration: 1s;
+}
+.box-2{
+  font-size: 1em;
+}
